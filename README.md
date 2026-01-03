@@ -133,7 +133,7 @@ Workflow:
 ### 🔹 Audio Transcription & Key-Point Extraction
 
 The application processes uploaded audio files and generates structured key points from the spoken content. This demonstrates the integration of speech-to-text using Whisper and contextual analysis using IBM Watson LLMs.
-<img width="1082" height="556" alt="Image" src="https://github.com/user-attachments/assets/8ca36d96-f63f-4344-bebb-55b991f4cc7d" />
+<img width="1035" height="544" alt="Image" src="https://github.com/user-attachments/assets/21f58b0f-2bda-4e40-85fd-67df5f5e1205" />
 
 ### 🔹 Web Interface – Audio Upload & Interaction
 
