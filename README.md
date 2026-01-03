@@ -142,6 +142,11 @@ This screenshot displays the Gradio-based web interface where users can upload a
 
 ---
 
+## Demo Video:
+https://github.com/user-attachments/assets/148161c5-87c2-4ac3-8783-54d9f4046f59
+
+---
+
 ## 💡 Use Cases
 
 - Business meeting transcription and summarization  
