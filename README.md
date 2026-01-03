@@ -108,6 +108,11 @@ Gradio-based UI for interaction
 ```bash
 python3 speech_analyzer.py
 ```
+### 🔹 Local Execution – Application Startup
+
+This screenshot shows the application successfully running in a local environment after activating the virtual environment and launching the Gradio interface. The terminal confirms the service is live and accessible via a local URL.
+<img width="1407" height="186" alt="Image" src="https://github.com/user-attachments/assets/536e7b30-71a6-4266-b75e-31b45c59935e" />
+
 Workflow:
 
 1. User uploads an audio file
@@ -123,7 +128,17 @@ Workflow:
 - Accurate speech transcription from audio recordings  
 - Context-aware summarization and key-point extraction  
 - Interactive and user-friendly web interface  
-- Robust end-to-end AI pipeline  
+- Robust end-to-end AI pipeline
+
+### 🔹 Audio Transcription & Key-Point Extraction
+
+The application processes uploaded audio files and generates structured key points from the spoken content. This demonstrates the integration of speech-to-text using Whisper and contextual analysis using IBM Watson LLMs.
+<img width="1082" height="556" alt="Image" src="https://github.com/user-attachments/assets/8ca36d96-f63f-4344-bebb-55b991f4cc7d" />
+
+### 🔹 Web Interface – Audio Upload & Interaction
+
+This screenshot displays the Gradio-based web interface where users can upload audio files for transcription and analysis. The clean and intuitive UI enables seamless interaction with the AI pipeline in real time.
+<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/4f7492fa-879b-4e67-8581-efb5f894725b" />
 
 ---
 
