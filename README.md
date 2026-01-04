@@ -18,6 +18,8 @@ By completing this project, you will be able to:
 - Design interactive web interfaces using Hugging Face Gradio  
 - Develop complete AI pipelines combining speech, language, and UI components  
 
+<img width="1743" height="728" alt="Image" src="https://github.com/user-attachments/assets/05488b72-60b8-4806-9c14-df778c79c160" />
+
 ---
 
 ## 🛠️ Tech Stack
