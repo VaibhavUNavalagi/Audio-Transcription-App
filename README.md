@@ -21,6 +21,7 @@ By completing this project, you will be able to:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05488b72-60b8-4806-9c14-df778c79c160" width="800" />
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
